@@ -4,7 +4,7 @@
 
 <item>
 <title>[COLOR silver][B] SWEET TOOTH 1º TEMPORADA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c210beba15bf0ed3ad20b5ae340eac7b5d65201</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c210beba15bf0ed3ad20b5ae340eac7b5d65201</link> 
 <thumbnail>https://media.themoviedb.org/t/p/original/bghxRQJfbhvIquxv1S0VkjySK5M.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Há dez anos, "O Grande Esfacelamento" causou estragos no mundo e levou ao misterioso surgimento de híbridos: bebês nascidos parte humanos, parte animais. Sem saber se os híbridos são a causa ou o resultado do vírus, muitos humanos os temem e caçam. Após uma década vivendo com segurança em sua casa isolada na floresta, Gus (Christian Convery), um menino-cervo acolhido, inesperadamente faz amizade com um viajante solitário chamado Jepperd (Nonso Anozie). Juntos, eles partem em uma aventura extraordinária pelas ruínas da América em busca de respostas sobre as origens de Gus, o passado de Jepperd e o verdadeiro significado de um lar.</info>
